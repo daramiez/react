@@ -1,2 +1,2 @@
 # react
-My first proyect with reactjs and nextjs
+My first project with reactjs and nextjs
